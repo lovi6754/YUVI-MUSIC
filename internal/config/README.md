@@ -40,8 +40,8 @@ These must be set for the bot to start.
 | :--- | :--- | :--- |
 | `SPOTIFY_CLIENT_ID` | `None` | Spotify API Client ID for metadata resolution. |
 | `SPOTIFY_CLIENT_SECRET` | `None` | Spotify API Client Secret for metadata resolution. |
-| `ARC_API_KEY` | `""` | API Key for [ARC API](https://deadlinetech.site) YouTube downloader. |
-| `ARC_API_URL` | `https://api.deadlinetech.site` | Base URL for Arc API. |
+| `ARC_API_KEY` | `""` | API Key for [ARC API](https://portal.arcmusic.fun) YouTube downloader. |
+| `ARC_API_URL` | `https://api.arcmusic.fun` | Base URL for Arc API. |
 
 ## 🛠️ Bot Behavior & Limits
 
