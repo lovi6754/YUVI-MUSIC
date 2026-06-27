@@ -68,17 +68,17 @@
         },
         "START_IMG_URL": {
             "description": "URL of the image to be displayed on the start message.",
-            "value": "https://files.catbox.moe/he87u5.jpg",
+            "value": "https://files.catbox.moe/ejxqm0.jpg",
             "required": false
         },
         "SUPPORT_CHAT": {
             "description": "The URL of your support chat.",
-            "value": "https://t.me/ArcChatz",
+            "value": "https://t.me/+571PcuJAHeU0MTU1",
             "required": false
         },
         "SUPPORT_CHANNEL": {
             "description": "The URL of your support channel.",
-            "value": "https://t.me/ArcUpdates",
+            "value": "https://t.me/+xHz3OmQTHSI0Mzk1",
             "required": false
         },
         "COOKIES_LINK": {
